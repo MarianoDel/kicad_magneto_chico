@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source C:/Users/Mariano/Documents/Proyectos/KiCad/magneto_chico/magneto_chico.sch)
-    (date "03/04/2016 17:42:38")
+    (date "03/04/2016 20:05:40")
     (tool "Eeschema (2015-07-16 BZR 5955, Git 27eafcb)-product")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -93,7 +93,7 @@
       (tstamp 56FC5C05))
     (comp (ref C1)
       (value 100uF)
-      (footprint LOCAL_Connectors_Molex:Molex_KK_6410-03)
+      (footprint LOCAL_Capacitors_ThroughHole:C_Radial_D10_L20_P5)
       (libsource (lib device) (part CP1))
       (sheetpath (names /Sheet56FC57FC/) (tstamps /56FC57FD/))
       (tstamp 56FC5C06))
@@ -345,7 +345,7 @@
       (tstamp 56FFFC2E))
     (comp (ref SP1)
       (value SPEAKER)
-      (footprint LOCAL_Pin_Headers:Pin_Header_Straight_1x02)
+      (footprint LOCAL_Capacitors_ThroughHole:C_Radial_D10_L20_P5)
       (libsource (lib device) (part SPEAKER))
       (sheetpath (names /Sheet56FC5840/) (tstamps /56FC5841/))
       (tstamp 56FFFCAD))
