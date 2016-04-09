@@ -404,7 +404,7 @@ U 1 1 56FC5C0C
 P 4950 4600
 F 0 "R1" V 5030 4600 40  0000 C CNN
 F 1 "390" V 4957 4601 40  0000 C CNN
-F 2 "Resistors_SMD:R_0805_HandSoldering" V 4880 4600 30  0001 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM7mm" V 4880 4600 30  0001 C CNN
 F 3 "~" H 4950 4600 30  0000 C CNN
 	1    4950 4600
 	0    1    1    0   
